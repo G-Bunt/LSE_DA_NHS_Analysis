@@ -22,7 +22,8 @@ Through this initial analysis, several key findings have been observed in the da
 -	Utilization rates of NHS capacity fluctuate with the peaks in demand, but never reach 100% or higher. However, it is unclear whether the provided capacity figures provide an accurate picture of the situation on the ground. Taking into account the context of the global pandemic (and evidenced by several Twitter themes), it is likely that the true capacity of the NHS actually decreased during peak demand, as health workers were at increased risk of catching the COVID19 virus. This requires more research.
 
 In any case, it is clear from the analysis that there are large swings in the demand for various NHS services across the year. While a longer time horizon is needed to fully understand the long-term trends (especially in a post-pandemic society), it is advised that the NHS approaches planning with a flexible lens: there is no one-size-fits-all approach to setting up services. Scalability to adjust to seasonal peaks is key in responding to patient demand, and if seasonal trends are found to be recurring over the years, can be planned for in advance.
-Areas for further exploration
+
+## Areas for further exploration <br>
 This study uncovered some of the basic characteristics of the NHS appointments, their characteristics and several trend figures over the explored time period. Further research is recommended to fully answer the NHS key objective of understanding the reasons behind not attended GP appointments:
 
 -	A more detailed breakdown into the actual capacity of the NHS (including staff availability) would help understand the true capacity figures and the strain on resources.
